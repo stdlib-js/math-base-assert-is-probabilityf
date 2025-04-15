@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`da4436d`](https://github.com/stdlib-js/stdlib/commit/da4436d4372c05e78d6936e1738be14e640ef099) - **docs:** replace manual `for` loop in examples [(#6689)](https://github.com/stdlib-js/stdlib/pull/6689) _(by Harsh)_
 -   [`65f0948`](https://github.com/stdlib-js/stdlib/commit/65f0948b65c43d56d13cb55c54ac4526c3c60304) - **bench:** update random value generation [(#6691)](https://github.com/stdlib-js/stdlib/pull/6691) _(by Harsh)_
 -   [`5fd0a59`](https://github.com/stdlib-js/stdlib/commit/5fd0a59f372e982a78028b9f249e5ba0921a231f) - **docs:** update examples _(by Athan Reines)_
 -   [`20b4721`](https://github.com/stdlib-js/stdlib/commit/20b4721661560f4bfaa48aca80696055776ac900) - **feat:** add `math/base/assert/is-probabilityf` [(#4214)](https://github.com/stdlib-js/stdlib/pull/4214) _(by Vivek Maurya, Gunj Joshi, stdlib-bot)_
