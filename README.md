@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isProbabilityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probabilityf@esm/index.mjs';
+import isProbabilityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probabilityf@v0.1.1-esm/index.mjs';
 ```
 
 #### isProbabilityf( x )
@@ -78,7 +78,7 @@ bool = isProbabilityf( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import isProbabilityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probabilityf@esm/index.mjs';
+import isProbabilityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probabilityf@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
