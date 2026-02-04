@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isProbabilityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probabilityf@deno/mod.js';
+import isProbabilityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probabilityf@v0.1.1-deno/mod.js';
 ```
 
 #### isProbabilityf( x )
@@ -73,7 +73,7 @@ bool = isProbabilityf( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import isProbabilityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probabilityf@deno/mod.js';
+import isProbabilityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probabilityf@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
